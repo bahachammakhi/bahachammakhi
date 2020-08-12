@@ -20,7 +20,7 @@
 Hi, I'm Baha eddine, a passionate Fullstack developer, network student from Tunisia.
 
 - 🔭 I’m currently Freelancing 
-- 🌱 I’m currently learning GraphQL 
+- 🌱 I’m currently learning GraphQL, K8s 
 - 👯 I’m looking to Learn some devops like kubernetes, ansible , Pipelines ....
 - 💬 Ask me or help me with any Information about anything [here](https://github.com/bahachammakhi/bahachammakhi/issues)
 
