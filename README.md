@@ -19,10 +19,11 @@
 
 Hi, I'm Baha eddine, a passionate Fullstack developer, network student from Tunisia.
 
-- 🔭 I’m currently Freelancing 
-- 🌱 I’m currently learning GraphQL, K8s 
+- 🔭 Software developer at Wssel .
+- 🌱 I’m currently working with React , Nodejs , MongoDB , Graphql , Apollo. 
 - 👯 I’m looking to Learn some devops like kubernetes, ansible , Pipelines ....
 - 💬 Ask me or help me with any Information about anything [here](https://github.com/bahachammakhi/bahachammakhi/issues)
+- 📝 I Write some blogs from time to time at [blog.bahachammakhi.tn](https://blog.bahachammakhi.tn/) you can subscribe to the newsletter !
 
 `Website` - [Bahachammakhi.tn](https://www.bahachammakhi.tn/)
 
