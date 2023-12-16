@@ -17,11 +17,14 @@
 <img src="https://komarev.com/ghpvc/?username=bahachammakhi" alt="bahachammakhi" />
 <br />
 
-Hi, I'm Baha eddine, a passionate Fullstack developer, network student from Tunisia.
+Experienced CTO & Engineering manager | Building High-Performing Teams & Driving Innovation
 
-- 🔭 Software developer at Wereact .
-- 🌱 I’m currently working with React , Nodejs , MongoDB , Graphql , Apollo. 
-- 👯 I’m looking to Learn some devops like kubernetes, ansible , Pipelines ....
+5+ years of experience leading and building high-performing teams across diverse industries.
+- Increased operational efficiency and delivered innovative solutions.
+- Fostered talent and empowered teams to achieve peak performance.
+- Highly motivated and results-oriented.
+- 🌱 I’m currently working with Typescript technologies, CI/CD, DevOps, AWS, cloud computing. 
+- 👯 Learning how to make IT teams more efficent ....
 - 💬 Ask me or help me with any Information about anything [here](https://github.com/bahachammakhi/bahachammakhi/issues)
 - 📝 I Write some blogs from time to time at [blog.bahachammakhi.tn](https://blog.bahachammakhi.tn/) you can subscribe to the newsletter !
 
