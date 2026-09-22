@@ -1,49 +1,48 @@
-### Hi there, I'm [Baha chammakhi!](https://www.bahachammakhi.tn/) 👋
+# Baha Chammakhi
 
-<a href="https://www.bahachammakhi.tn/projects">
-  <img align="left" alt="Baha chammakhi | Website" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://linkedin.com/in/baha-chammakhi" target="_blank">
-  <img align="left" alt="Bahachammakhi | Linkedin " width="21px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"</a>
-<a href="https://twitter.com/bahachammakhi">
-  <img align="left" alt="Baha chammakhi | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-   <a href="https://www.instagram.com/bahadevchammakhi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" /></a>
-<a href="https://www.facebook.com/bahadevchammakhi">
-  <img align="left" alt=Baha chammakhi's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
-</a>
+**Senior / Lead Software Engineer · Engineering Leader**
 
-<br />
-<img src="https://komarev.com/ghpvc/?username=bahachammakhi" alt="bahachammakhi" />
-<br />
+I design and ship backend platforms, cloud-native infrastructure, APIs and developer tooling. My work sits at the intersection of **software architecture, platform engineering, payments, DevOps and AI-enabled engineering**.
 
-Experienced CTO & Engineering manager | Building High-Performing Teams & Driving Innovation
+<img src="https://komarev.com/ghpvc/?username=bahachammakhi" alt="Profile views" />
 
-5+ years of experience leading and building high-performing teams across diverse industries.
-- Increased operational efficiency and delivered innovative solutions.
-- Fostered talent and empowered teams to achieve peak performance.
-- Highly motivated and results-oriented.
-- 🌱 I’m currently working with Typescript technologies, CI/CD, DevOps, AWS, cloud computing. 
-- 👯 Learning how to make IT teams more efficent ....
-- 💬 Ask me or help me with any Information about anything [here](https://github.com/bahachammakhi/bahachammakhi/issues)
-- 📝 I Write some blogs from time to time at [blog.bahachammakhi.tn](https://blog.bahachammakhi.tn/) you can subscribe to the newsletter !
+## What I work on
 
-`Website` - [Bahachammakhi.tn](https://www.bahachammakhi.tn/)
+- **Backend & distributed systems** — TypeScript/Node.js, Fastify, NestJS, Java/Spring, REST and gRPC
+- **Platform engineering** — Kubernetes, GKE, Helm, ArgoCD, Docker and CI/CD
+- **Data & observability** — PostgreSQL, Grafana, Loki, Prometheus and Sentry
+- **Identity & API security** — Keycloak, OAuth/OIDC, authentication and authorization architecture
+- **Payments & developer platforms** — multi-tenant APIs, SDKs, portals and service-to-service architecture
+- **AI & automation** — AI agents, MCP, developer workflows and local/cloud LLM tooling
+- **Engineering leadership** — architecture, delivery, mentoring, technical strategy and team effectiveness
 
-**Languages and Tools:**  
+## Engineering stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+`TypeScript` · `Node.js` · `Fastify` · `NestJS` · `Java` · `Spring` · `PostgreSQL` · `gRPC` · `REST`
 
+`Kubernetes` · `GKE` · `Helm` · `ArgoCD` · `Docker` · `CI/CD` · `Grafana` · `Loki` · `Prometheus` · `Sentry`
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bahachammakhi&show_icons=true&include_all_commits=true" alt="Baha chammakhi's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahachammakhi&layout=compact&theme=radical" />
-</a>
+`Keycloak` · `OAuth/OIDC` · `React` · `Next.js`
 
+## Public work
+
+Most of my production engineering work lives in private repositories. I use this GitHub account for open-source work, reference implementations, experiments and personal tooling.
+
+- [**automation**](https://github.com/bahachammakhi/automation) — TypeScript/Turborepo project for automating personal workflows and integrations.
+- [**bahachammakhi.tn**](https://github.com/bahachammakhi/bahachammakhi.tn) — source for my personal website and portfolio.
+- [**kubernetes-app**](https://github.com/bahachammakhi/kubernetes-app) — an earlier Kubernetes application/deployment project.
+- [**graphql-rest-doc-generator**](https://github.com/bahachammakhi/graphql-rest-doc-generator) — an API documentation tooling experiment.
+
+## How I approach engineering
+
+I care about systems that are **simple to operate, observable, secure and easy for other engineers to work with**. I enjoy turning ambiguous product requirements into practical architecture, improving developer experience, and helping teams make better technical decisions without unnecessary complexity.
+
+## Elsewhere
+
+- **Website:** https://www.bahachammakhi.tn/
+- **LinkedIn:** https://www.linkedin.com/in/baha-chammakhi/
+- **Blog:** https://blog.bahachammakhi.tn/
+
+---
+
+If you're working on backend platforms, cloud infrastructure, developer tooling or AI automation, feel free to reach out.
