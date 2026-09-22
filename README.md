@@ -24,18 +24,11 @@ I design and ship backend platforms, cloud-native infrastructure, APIs and devel
 
 `Keycloak` · `OAuth/OIDC` · `React` · `Next.js`
 
-## Public work
-
-Most of my production engineering work lives in private repositories. I use this GitHub account for open-source work, reference implementations, experiments and personal tooling.
-
-- [**automation**](https://github.com/bahachammakhi/automation) — TypeScript/Turborepo project for automating personal workflows and integrations.
-- [**bahachammakhi.tn**](https://github.com/bahachammakhi/bahachammakhi.tn) — source for my personal website and portfolio.
-- [**kubernetes-app**](https://github.com/bahachammakhi/kubernetes-app) — an earlier Kubernetes application/deployment project.
-- [**graphql-rest-doc-generator**](https://github.com/bahachammakhi/graphql-rest-doc-generator) — an API documentation tooling experiment.
-
 ## How I approach engineering
 
-I care about systems that are **simple to operate, observable, secure and easy for other engineers to work with**. I enjoy turning ambiguous product requirements into practical architecture, improving developer experience, and helping teams make better technical decisions without unnecessary complexity.
+I care about systems that are **simple to operate, observable, secure and easy for other engineers to work with**.
+
+I enjoy turning ambiguous product requirements into practical architecture, improving developer experience, and helping engineering teams make better technical decisions without unnecessary complexity.
 
 ## Elsewhere
 
@@ -45,4 +38,4 @@ I care about systems that are **simple to operate, observable, secure and easy f
 
 ---
 
-If you're working on backend platforms, cloud infrastructure, developer tooling or AI automation, feel free to reach out.
+I'm interested in backend platforms, cloud infrastructure, developer tooling, distributed systems and AI-powered engineering.
